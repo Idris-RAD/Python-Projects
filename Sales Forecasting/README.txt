@@ -70,3 +70,4 @@ It finds weekly and yearly trends by itself.
 Comparing purely based on the last year predictions (2017) errors, SARIMA is the best model. 
 Prophet is also goood, but overpredicts slightly.
 
+Prophet is much better with daily predictions and variations, and is easier to implement.
